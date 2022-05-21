@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Até Tougué Aristide
  - I'm a student in master degree in Computer Science at the University of Douala
  - I'm currently learning Angular & NestJS in order to be a Web Developer
- - And I'm about to start a new project that will quite challenging
+ - And I'm about to start a new project that will be quite challenging
  
 ## Technologies and languages I've learnt so far
 - HTML & CSS
