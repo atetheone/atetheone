@@ -19,7 +19,7 @@
 
 ## Contacts
 - [My linkedIn](https://linkedin.com/in/atetheone)
-- Portfolio... 😄 on the way
+- [My portfolio](http://atetheone.tech)
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=atetheone)
