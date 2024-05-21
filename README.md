@@ -1,10 +1,8 @@
 # 👋 Hi, I’m Até Tougué Aristide
- - I'm a student in Master of Science in Software Engineering and IT Systems at the Higher Polytechnic School of Dakar
- - I'm currently learning Spring Boot
- - And I'm about to start a new project that will be quite challenging
- - Open for collabs
- 
-## Technologies and languages I've learnt so far
+
+I am a Master of Science student specializing in Software Engineering and IT Systems at the Higher Polytechnic School of Dakar. Currently, I'm diving deep into Spring Boot as I gear up for an exciting and challenging new project. I'm always open to collaboration opportunities.
+
+## Technologies and Languages I've Learned
 - HTML & CSS
 - JavaScript
 - Bootstrap
@@ -13,16 +11,15 @@
 - NestJS
 - MongoDB
 
-## What I'm currently learning
-- Socket.io
-- Express
+## What I'm Currently Learning
+- Spring Boot
+- Spring Cloud
 
-## Contacts
-- [My linkedIn](https://linkedin.com/in/atetheone)
-- [My portfolio](http://atetheone.tech)
+## Let's Connect
+- [LinkedIn](https://linkedin.com/in/atetheone)
+- [Portfolio](http://atetheone.tech)
 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=atetheone)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atetheone)
 
 <!---
 atetheone/atetheone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
