@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Até Tougué Aristide
- - I'm a student in Master of Science in Software Engineering and IT Systems at the Polytechnic School of Dakar
- - I'm currently learning Angular & Express
+ - I'm a student in Master of Science in Software Engineering and IT Systems at the Higher Polytechnic School of Dakar
+ - I'm currently learning Spring Boot
  - And I'm about to start a new project that will be quite challenging
  - Open for collabs
  
