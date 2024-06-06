@@ -115,7 +115,7 @@ I am a Master of Science student specializing in Software Engineering and IT Sys
 - [Portfolio](http://atetheone.tech)
 
 
-[![ GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atetheone&theme=dark&background=0d1117)](https://git.io/J1Ycx)
+[![ GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atetheone&theme=dark&background=0d1117)]
 
 <table>
   <tr>
