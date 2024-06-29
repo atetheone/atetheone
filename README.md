@@ -3,7 +3,7 @@
 I am a Master of Science student specializing in Software Engineering and IT Systems at the Higher Polytechnic School of Dakar. Currently, I'm diving deep into Spring Boot as I gear up for an exciting and challenging new project. I'm always open to collaboration opportunities.
 
 
-## 🛠️ My Skills
+## 🛠️ My Relevant Skills
 
 ### 👉 Programming Languages
 <p align="left"> 
