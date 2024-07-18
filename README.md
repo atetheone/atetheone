@@ -123,7 +123,7 @@ I am a Master of Science student specializing in Software Engineering and IT Sys
       <img src="https://github-readme-stats.vercel.app/api?username=atetheone&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://stats.hyochan.dev/api/github-stats-advanced?login=atetheone" alt="Top languages" />
+      <img src="https://stats.hyochan.dev/api/github-stats-advanced?login=atetheone"  width="400" alt="Top languages" />
 <!--       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atetheone&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="Top languages" /> -->
     </td>
     <td>
